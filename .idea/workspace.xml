@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72b4f26f-cf33-454a-a265-4715c7c7abbc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/CA4_TEst.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +46,7 @@
       <recent name="org.example" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.CA4_TEst">
+  <component name="RunManager" selected="TestNG.E:/Maven/CA4_EPAM/testng.xml">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="CA4_EPAM" />
       <method v="2">
@@ -135,8 +130,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="E:/Maven/CA4_EPAM/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LastFmProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.E:/Maven/CA4_EPAM/testng.xml" />
         <item itemvalue="TestNG.CA4_TEst" />
         <item itemvalue="TestNG.A_DropBttnSel_Test.BttnTest" />
         <item itemvalue="TestNG.A_DropBttnSel_Test" />
